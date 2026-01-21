@@ -74,7 +74,7 @@
 ##  Contact Me
 
 -  Email: sammedpatil1010@gmail.com
--  LinkedIn: **add-your-link-here**
+-  LinkedIn: https://www.linkedin.com/in/sammed-patil-7b81ba390
 
 ---
 
