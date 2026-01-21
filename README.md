@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sammed Patil</h1>
+<h1 align="center">Hi , I'm Sammed Patil</h1>
 <h3 align="center">Java Full Stack Developer | Spring Boot | React | MySQL</h3>
 
 <p align="center">
@@ -7,31 +7,31 @@
 
 ---
 
-## 👨‍💻 About Me
+##  About Me
 
-- 🎓 Java Full Stack Developer  
-- 🔥 Passionate about building real-world web applications  
-- 💡 Strong in Backend + Frontend Integration  
-- 🎯 Looking for Fresher / Junior Developer opportunities
+-  Java Full Stack Developer  
+-  Passionate about building real-world web applications  
+-  Strong in Backend + Frontend Integration  
+-  Looking for Fresher / Junior Developer opportunities
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 
-### 🚀 Backend
+###  Backend
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=jsonwebtokens)
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate)
 
-### 🎨 Frontend
+###  Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
 
-### 🗄 Database & Tools
+###  Database & Tools
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
@@ -40,7 +40,7 @@
 
 ---
 
-## 🚀 Major Project
+##  Major Project
 
 ### 🏠 ApnaGhar – PG / Hostel / Flat Rental System
 
@@ -55,7 +55,7 @@
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=spatil-1111&show_icons=true&theme=tokyonight" />
@@ -71,10 +71,10 @@
 
 ---
 
-## 📫 Contact Me
+##  Contact Me
 
-- 📧 Email: **add-your-email@gmail.com**
-- 💼 LinkedIn: **add-your-link-here**
+-  Email: **add-your-email@gmail.com**
+-  LinkedIn: **add-your-link-here**
 
 ---
 
