@@ -73,7 +73,7 @@
 
 ##  Contact Me
 
--  Email: **add-your-email@gmail.com**
+-  Email: sammedpatil1010@gmail.com
 -  LinkedIn: **add-your-link-here**
 
 ---
